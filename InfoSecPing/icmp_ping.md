@@ -10,6 +10,6 @@ Ping is a tool that uses the ICMP protocol to test connectivity between nodes. I
 
 - `**OS Library**`: This module provides a simple way to use functionalities that are dependent on the operating system.
 
-## Exemplos:
+## Exemples:
 - [ping_simples](./simpleping.py)
 - [ping_multiplo](./multipleping.py)
