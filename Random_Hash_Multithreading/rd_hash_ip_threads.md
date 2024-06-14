@@ -105,8 +105,8 @@ The `threads.py` script demonstrates the use of threads to perform simultaneous 
 
 ## Examples:
 
-- [hash_compare](./Random_Hash_Multithreading/hash_compare.py)
-- [ips](./Random_Hash_Multithreading/ips.py)
-- [password_generator](./Random_Hash_Multithreading/password_generator.py)
-- [threads](./Random_Hash_Multithreading/threads.py)
+- [hash_compare](hash_compare.py)
+- [ips](ips.py)
+- [password_generator](password_generator.py)
+- [threads](threads.py)
 
