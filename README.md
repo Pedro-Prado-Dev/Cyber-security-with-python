@@ -28,5 +28,6 @@ Information security is the area that aims to ensure that all data from one or m
 - [ICMP_PING](./InfoSecPing/icmp_ping.md)
 - [TCP_UDP](./TCP_UDP_Client_Server/TCP_UDP.md)
 - [Hash_Thread_explain_ip](./Random_Hash_Multithreading/rd_hash_ip_threads.md)
+- [Wordlist_Hashes](./Wordlists_Hashes/hashes_wordlists.md)
 
 
